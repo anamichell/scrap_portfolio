@@ -33,6 +33,13 @@
   font-weight: 100;
 }
 
+@font-face { 
+  font-family: 'Birds'; 
+  src: url(../fonts/Bird-of-Paradise.ttf) format('truetype');
+  font-style: normal; 
+  font-weight: normal;
+}
+
 body {
 background:#000;
 }
@@ -41,7 +48,7 @@ h1 {
   text-align: center;
   margin-top: 5%;
   color: #fff
-  font-family: Antique;
+  font-family: Antique, Birds;
   font-weight: normal;
   font-size: 72px;
 }
