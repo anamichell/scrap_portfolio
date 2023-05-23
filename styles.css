@@ -28,7 +28,7 @@
 
 @font-face { 
   font-family: 'Antique'; 
-  src: url(fonts/antique_book_cover.otf) format('truetype');
+  src: url(/fonts/antique_book_cover.otf) format('truetype');
   font-style: normal;
   font-weight: 100;
 }
