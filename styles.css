@@ -28,14 +28,14 @@
 
 @font-face { 
   font-family: 'Antique'; 
-  src: url(../fonts/antique_book_cover.otf) format('opentype');
+  src: url(/fonts/antique_book_cover.otf) format("opentype");
   font-style: normal;
   font-weight: 100;
 }
 
 @font-face { 
   font-family: 'Birds'; 
-  src: url(../fonts/Bird-of-Paradise.ttf) format('truetype');
+  src: url(/fonts/Bird-of-Paradise.ttf) format("truetype");
   font-style: normal; 
   font-weight: normal;
 }
