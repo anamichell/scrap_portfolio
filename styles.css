@@ -15,3 +15,7 @@ body {
 main {
   margin-bottom: 4rem;
 }
+
+p {
+  font-size: 1.125rem;
+}
