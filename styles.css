@@ -53,11 +53,11 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color: #fff;
+  color: #ff;
 }
 
 a {
-  color:#fff;
+  color:#ff;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
