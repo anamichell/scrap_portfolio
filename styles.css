@@ -15,14 +15,6 @@ main {
   margin-bottom: 4rem;
 }
 
-header {
-  margin-bottom: 4rem;
-  padding: 2rem 0;
-  background-color: hsl(280, 50%, 40%);
-  border-bottom: 4px solid hsl(300, 50%, 50%);
-  color: hsl(300, 50%, 90%);
-}
-
 header p {
   color: hsl(300, 50%, 85%);
 }
