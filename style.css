@@ -1,12 +1,6 @@
-<style>
-    @font-face {
-      font-family: Acroterion JF;
-      src: url(Acroterion JF.ttf) format('truetype');
-      font-weight: normal;
-      font-style: normal;
-    }
-    
-    div {
-        font-family: Acroterion JF;
-    }
-</style>
+@font-face {
+    font-family: Acroterion JF;
+    src: url(Acroterion JF.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
