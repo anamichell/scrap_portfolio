@@ -27,8 +27,8 @@
 }
 
 @font-face { 
-  font-family: 'AcroterionJF'; 
-  src: url(fonts/Acroterion JF Regular.ttf) format('truetype');
+  font-family: 'Antique'; 
+  src: url(fonts/antique_book_cover.otf) format('truetype');
   font-style: normal;
   font-weight: 100;
 }
@@ -41,7 +41,7 @@ h1 {
   text-align: center;
   margin-top: 5%;
   color: #fff
-  font-family: AcroterionJF;
+  font-family: Antique;
   font-weight: normal;
   font-size: 72px;
 }
