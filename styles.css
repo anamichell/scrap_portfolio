@@ -40,7 +40,7 @@ background:#000;
 h1 { 
   text-align: center;
   margin-top: 5%;
-  color: #ff
+  color: #fff
   font-family: AcroterionJF;
   font-weight: normal;
   font-size: 72px;
@@ -57,11 +57,11 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color: #ff;
+  color: #fff;
 }
 
 a {
-  color:#ff;
+  color:#fff;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
   -webkit-transition: all 0.2s ease-in;
