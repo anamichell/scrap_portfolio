@@ -1,4 +1,11 @@
 @font-face { 
-  font-family: 'Actroterion JF'; 
-  src: url(fonts/
+  font-family: 'ActroterionJF'; 
+  src: url(fonts/Acroterion-JF-Regular.tff);
+  font-style: normal;
+  font-weight: 100;
+}
+
+p { 
+  font-family: AcroterionJF;
+  font-weight: 100; 
 }
