@@ -26,12 +26,15 @@
   display:flex;
 }
 
-
 @font-face { 
   font-family: 'AcroterionJF'; 
   src: url(fonts/Acroterion JF Regular.ttf) format('truetype');
   font-style: normal;
   font-weight: 100;
+}
+
+body {
+background:#000;
 }
 
 h1 { 
