@@ -27,17 +27,10 @@
 }
 
 @font-face { 
-  font-family: 'Antique'; 
-  src: url(/fonts/antique_book_cover.otf) format("opentype");
+  font-family: 'Lain'; 
+  src: url(/fonts/momstype.ttf) format("truetype");
   font-style: normal;
   font-weight: 100;
-}
-
-@font-face { 
-  font-family: 'Birds'; 
-  src: url(/fonts/Bird-of-Paradise.ttf) format("truetype");
-  font-style: normal; 
-  font-weight: normal;
 }
 
 body {
@@ -48,14 +41,14 @@ h1 {
   text-align: center;
   margin-top: 5%;
   color: #fff
-  font-family: Antique;
+  font-family: Lain;
   font-weight: normal;
   font-size: 72px;
 }
 
 p {
   text-align:center;
-  font-family: Antique;
+  font-family: Lain;
   color: #ffb3c6; /* light pink */
 }
 
