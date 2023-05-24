@@ -27,29 +27,31 @@
 }
 
 @font-face { 
-  font-family: Lain; 
-  src: url("../fonts/momstype.ttf") format('truetype');
+  font-family: 'momstypewriter'; 
+  src: url('../fonts/momstype.ttf') format('truetype'),
+    url('../momstype.woff') format('woff'),
+    url('../momstype.woff2') format('woff2');
   font-style: normal;
   font-weight: 100;
 }
 
 body {
   background:#000;
-  font-family: 'Lain', sans-serif;
+  font-family: 'momstypewriter', Arial, sans-serif;
 }
 
 h1 { 
   text-align: center;
   margin-top: 5%;
   color: #fff
-  font-family: 'Lain', sans-serif;
+  font-family: 'momstypewriter', Arial, sans-serif;
   font-weight: normal;
   font-size: 72px;
 }
 
 p {
   text-align:center;
-  font-family: 'Lain';
+  font-family: 'momstypewriter';
   color: #ffb3c6; /* light pink */
 }
 
