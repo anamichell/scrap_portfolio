@@ -28,7 +28,7 @@
 
 @font-face { 
   font-family: Lain; 
-  src: url(".../fonts/momstype.ttf") format('truetype');
+  src: url("../fonts/momstype.ttf") format('truetype');
   font-style: normal;
   font-weight: 100;
 }
@@ -42,7 +42,7 @@ h1 {
   text-align: center;
   margin-top: 5%;
   color: #fff
-  font-family: 'Lain', 'Courier New', monospace;
+  font-family: 'Lain', sans-serif;
   font-weight: normal;
   font-size: 72px;
 }
