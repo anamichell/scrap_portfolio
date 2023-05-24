@@ -35,7 +35,7 @@
 
 body {
   background:#000;
-  font-family: Lain, sans-serif;
+  font-family: 'Lain', sans-serif;
 }
 
 h1 { 
@@ -49,7 +49,7 @@ h1 {
 
 p {
   text-align:center;
-  font-family: Lain;
+  font-family: 'Lain';
   color: #ffb3c6; /* light pink */
 }
 
