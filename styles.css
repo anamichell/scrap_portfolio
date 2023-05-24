@@ -27,14 +27,15 @@
 }
 
 @font-face { 
-  font-family: 'Lain'; 
-  src: url("/fonts/momstype.ttf") format('truetype');
+  font-family: Lain; 
+  src: url("../fonts/momstype.ttf") format('truetype');
   font-style: normal;
   font-weight: 100;
 }
 
 body {
-background:#000;
+  background:#000;
+  font-family: Lain, sans-serif;
 }
 
 h1 { 
