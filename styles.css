@@ -38,11 +38,18 @@
 body {
   background:#000;
   font-family: 'momstypewriter', Arial, sans-serif;
+  position: relative; 
+  height: 100vh; /* 100% of the viewport heigth */ 
+  margin: 0; /* reccomended */ 
 }
 
 h1 { 
+  position: absolute; 
+  top: 50%; /* moved down by 50% of the screen height */
+  transform: translateY(-50%); */ moved back up (Y axis) by half of its height to achieve the perfect center */
+  width: 100%; 
   text-align: center;
-  margin-top: 50%;
+  margin: 0;
   color: #fff
   font-family: 'momstypewriter', Arial, sans-serif;
   font-weight: normal;
