@@ -1,0 +1,69 @@
+/* @font-face { 
+  font-family: 'momstypewriter'; 
+  src: url('../fonts/momstype.ttf') format('truetype'),
+    url('../momstype.woff') format('woff'),
+    url('../momstype.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100;
+} */
+
+body {
+  background-image: url('./pictures/lines.jpg');
+  background-color: #999999;
+  margin: 0;
+}
+
+table {
+  border-collapse: separate;
+  text-indent: initial;
+  white-space-collapse: collapse;
+  text-wrap: wrap;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-style: normal;
+  border-spacing: 2px;
+  color: black;
+  font-variant: normal;
+}
+
+
+.background { 
+  background-color: rgb(121, 199, 121);
+  opacity: 0.5;
+  align-self: center;
+}
+
+.peach_text {
+  COLOR: #cc6633;
+  FONT-FAMILY: Verdana, arial;
+  FONT-SIZE: 8pt;
+  FONT-STYLE: normal;
+  LETTER-SPACING: normal;
+  TEXT-DECORATION: none;
+}
+
+.green_text {
+  COLOR: #666666;
+  FONT-FAMILY: Verdana, arial;
+  FONT-SIZE: 8pt;
+  FONT-STYLE: normal;
+  LETTER-SPACING: normal;
+  TEXT-DECORATION: none;
+}
+
+.center-content {
+  text-align: center;
+  background-color: white;
+}
+
+#left-photo {
+  width: 100px;
+  border: 2px solid rgb(142, 142, 142); /* Set the border width, style, and color */
+}
+
+#second-photo {
+  width: 200px;
+}
+
+ 
